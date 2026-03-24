@@ -20,7 +20,7 @@ Note that the simulation code has already been set with original labware names i
 To tailor the protocol to your experiment define number of samples and elution volume in the user input section at the beginning of the code.
 
 ### Deck set up
-<img src="images/RNA_deck.png" alt="Total RNA Purification" width="1200" height="600">
+<img src="RNA_deck.png" alt="Total RNA Purification" width="1200" height="600">
 
 ### Sample Setup
 - 200uL sample should be loaded into each well of the 96 well plate by column (i.e. fill column A from the top, then B etc.) to a max of 48 samples.
