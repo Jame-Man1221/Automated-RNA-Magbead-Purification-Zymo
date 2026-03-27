@@ -1,4 +1,4 @@
-# Quick-RNA™ MagBead
+# Quick-RNA™ MagBead - Customisable Opentrons script for RNA purification protocol for up to 48 samples
 
 ### Authors: Aryaan Kumar
 
