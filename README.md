@@ -4,7 +4,7 @@
 
 ## Introduction
 This is an automated [Zymo protocol for RNA purification](https://files.zymoresearch.com/protocols/_r2132_r2133_quick-rna_magbead.pdf).
-- Custom Sample Protocol :  RNA purification for any number of samples up to 48 using 8-channel pipette, compatible with older Opentrons APIs without partial tip commands.
+- Custom Sample Protocol :  RNA purification for any number of samples up to 48 using 8-channel pipette, compatible with the older Opentrons API 2.19 without partial tip commands.
 
 ## Contents of file
 - Code_Custom_Tips_RNA_Purification.py            - Zymo protocol handling any number of samples up to 48.
