@@ -1,4 +1,4 @@
-# Zymo RNA Purification
+# Quick-RNA™ MagBead
 
 ### Authors: Aryaan Kumar
 
